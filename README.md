@@ -5,5 +5,5 @@
 
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&reversal=false&animation=fadeIn&descAlign=59&descAlignY=72&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&reversal=true&animation=fadeIn&descAlign=59&descAlignY=72&section=footer"/>
 </p>
