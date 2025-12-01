@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Mohamed%20Shaker&reversal=false&animation=fadeIn&descAlign=59&descAlignY=72" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Mohamed%20Shaker&reversal=true&animation=fadeIn&descAlign=50&descAlignY=70&section=header&desc=Software%20Engineer&descSize=35"/>
 </p>
 
 
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&reversal=true&animation=fadeIn&descAlign=59&descAlignY=72&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&text=Have%20a%20nice%20time!&reversal=false&animation=fadeIn&descAlign=50&descAlignY=66&section=footer&fontAlignY=71&fontColor=FFFFFF"/>
 </p>
